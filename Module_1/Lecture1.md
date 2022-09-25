@@ -82,6 +82,6 @@ Most common commands: [a simple guide](https://up1.github.io/git-guide/index.htm
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Python Tutor](https://pythontutor.com/javascript.html#mode=edit)
 
-### [Back to main page]
+### [Back to main page](../README.md)
 
 </p>
